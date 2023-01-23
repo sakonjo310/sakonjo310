@@ -1,5 +1,19 @@
-### Hi there 👋
+<div align="center">
+  <h2>Hi, I'm Satoe👋</h2>
+  <p>Please connect with me on Linkedin!<p>
+</div>
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/satoe-sakonjo-528558124/">
+    <img src="https://cdn-icons-png.flaticon.com/512/255/255319.png" alt="LinkedIn Badge" width="50"/>
+  </a>
+  <a href="mailto:sakonjo310@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/1295/1295555.png" alt="Gmail Badge" width="50"/>
+  </a>
+  <a href="https://resume.creddle.io/resume/ioayo7nrql9">
+    <img src="https://cdn-icons-png.flaticon.com/512/1939/1939574.png" alt="Resume Badge" width="50"/>
+  </a>
+</div>
 <!--
 **sakonjo310/sakonjo310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
