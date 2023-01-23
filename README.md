@@ -52,7 +52,7 @@
   <p>Testing:</p>
   <img src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-412x512-341bo8r1.png" width="35">
   <img src="https://gitlab.spritecloud.com/uploads/-/system/project/avatar/461/rspec.png" width="35">
-  <img src="https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/113/000/original/logo_landscape_(1).png?1643756332" width="35">
+  <img src="https://yt3.ggpht.com/iD0oePTGV8tZwEEP_WEG2rvyNiQAVfmjhawFMCj17ARjjmw-J70k9NDjSE5QTzD9Vk3ayBU=s900-c-k-c0x00ffffff-no-rj" width="35">
   <img src="https://cdn.iconscout.com/icon/free/png-256/jest-3521517-2945020.png" width="35">
   <img src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" width="35">
   <img src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4" width="35">
