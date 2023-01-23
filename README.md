@@ -14,6 +14,14 @@
     <img src="https://cdn-icons-png.flaticon.com/512/1939/1939574.png" alt="Resume Badge" width="50"/>
   </a>
 </div>
+
+<div align="center">
+  <h2>About Me 🌱</h2>
+  <p><b>Full Stack Developer</b> 💻 who loves beautiful <b>designs</b></p>
+  <p>Recent Graduate 🤓 from Lighthouse Labs</p>
+  <p>Moved from Japan 🇯🇵 to Canada 🇨🇦 in 2016 ✈️</p>
+  <p>When I'm not coding, I am hiking ⛰️ with my dog 🐶</p>
+</div>
 <!--
 **sakonjo310/sakonjo310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
